@@ -28,15 +28,25 @@ How to Run:
 Example Usage:
 
 create_parking_lot 6
+
 park KA-01-HH-1234 White
+
 park KA-01-HH-9999 White
+
 park KA-01-BB-0001 Black
+
 park KA-01-HH-7777 Red
+
 park KA-01-HH-2701 Blue
+
 leave 4
+
 registration_numbers_for_cars_with_colour White
+
 slot_numbers_for_cars_with_colour White
+
 slot_number_for_registration_number KA-01-HH-1234
+
 exit
 
 
